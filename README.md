@@ -9,10 +9,13 @@ Below the regression models that were developed are:
 . Bayesian Automatic Relevance Determination (ARD)
 . K-Nearest Neighbors Regression (KNN)
 
+ Below Step for run the all code go 
+ 1. Read file from excel file birthweight_low.xlsx .
+ 2. doc file Mobile App birthweight_data_dictionary.pdf ( information about all features).
+ 3. Jupiter required to run the Birthweight_Regression_Analysis.ipynb file.
+ 4. python file - Kernel-> Restart & RunAll.
+ 
+ 
 The final output of the Jupyter notebook is a table of  candidate models showing the model type, training and test results, training test gaps, and  final model selection.
-
-. Steps to run the code 
-data in a excel file birthweight_low.xlsx
-data dictionary in a doc file birthweight_data_dictionary.pdf ( information about all features)
-Jupiter required for opening the Birthweight_Regression_Analysis.ipynb.
-Below Step for run the all code go in to python file - Kernel-> Restart & RunAll
+ 
+ 
