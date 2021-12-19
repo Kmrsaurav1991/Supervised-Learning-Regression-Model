@@ -2,7 +2,7 @@
 
 Information about birth weight (birth weight) used to build a predictive model of continuous response variables. Analysis includes feature engineering, model preparation, variable selection, and model development.
 
-Below the regression models that were developed are:
+There are following the regression models that were developed are:
 
 . OLS Regression
 . Lasso Regression
